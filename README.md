@@ -1,7 +1,7 @@
 # histo_fastai
 
-The model in pkl format
+## A histology image classifer
 
-Training and test data are here https://drive.google.com/open?id=1kmyCzcwHA1AVwFNiN9qoU6dPrB5AaAnw
+Training and test data are here in the zip file.
 
-The software can be tested at https://tissue-classifier.onrender.com/
+The software can be tested at https://tissue-classifier.onrender.com/ (maybe down due to payment issues and stuff).
